@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\bin\Debug\net8.0\PolynomialLinkChallenge.exe
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\bin\Debug\net8.0\PolynomialLinkChallenge.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\bin\Debug\net8.0\PolynomialLinkChallenge.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\bin\Debug\net8.0\PolynomialLinkChallenge.dll
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\bin\Debug\net8.0\PolynomialLinkChallenge.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\PolynomialLinkChallenge.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\PolynomialLinkChallenge.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\PolynomialLinkChallenge.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\PolynomialLinkChallenge.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\PolynomialLinkChallenge.dll
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\refint\PolynomialLinkChallenge.dll
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\PolynomialLinkChallenge.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\PolynomialLinkChallenge.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\PolynomialLinkChallenge\obj\Debug\net8.0\ref\PolynomialLinkChallenge.dll
